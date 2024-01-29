@@ -16,8 +16,6 @@ The loan application dataset used contains details of 614 loan applicants with t
 - Numerical features: ApplicantIncome, CoapplicantIncome, LoanAmount, Loan_Amount_Term, Credit_History
 - Target variable: Loan_Status (Loan approved or not)
 
-The data is sourced from a [Kaggle dataset](https://www.kaggle.com/burak3ergun/loan-data-set).
-
 ## Data Analysis
 The data analysis steps include:
 
